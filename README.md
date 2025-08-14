@@ -1,6 +1,6 @@
 # Simple Calculator
 
-A stylish and functional web-based calculator built with **HTML**, **CSS**, and **JavaScript**. This project features a responsive user interface and supports both mouse and keyboard input for basic arithmetic operations.
+A stylish and functional web-based calculator built with **HTML5**, **CSS3**, and **JavaScript**. This project features a responsive user interface and supports both mouse and keyboard input for basic arithmetic operations.
 
 
 ## 🚀 Features

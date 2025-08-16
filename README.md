@@ -13,12 +13,14 @@ A stylish and functional web-based calculator built with **HTML5**, **CSS3**, an
 
 
 ## 📁 Project Structure
-
-| File        | Description                                      |
-|-------------|--------------------------------------------------|
-| index.html  | Main HTML file                                  |
-| style.css   | CSS for styling the calculator                  |
-| script.js   | JavaScript logic for button and keyboard interactions |
+```bash
+simple_calculator
+│
+├── index.html    # Main HTML file                                  
+├── style.css     # CSS for styling the calculator                  
+├── script.js     # JavaScript logic for button and keyboard interactions
+└── README.md                    # Project documentation
+```
 
 
 ## 🛠️ How to Run

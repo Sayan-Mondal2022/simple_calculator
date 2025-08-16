@@ -16,9 +16,9 @@ A stylish and functional web-based calculator built with **HTML5**, **CSS3**, an
 ```bash
 simple_calculator
 │
-├── index.html    # Main HTML file                                  
-├── style.css     # CSS for styling the calculator                  
-├── script.js     # JavaScript logic for button and keyboard interactions
+├── index.html                   # Main HTML file                                  
+├── style.css                    # CSS for styling the calculator                  
+├── script.js                    # JavaScript logic for button and keyboard interactions
 └── README.md                    # Project documentation
 ```
 
